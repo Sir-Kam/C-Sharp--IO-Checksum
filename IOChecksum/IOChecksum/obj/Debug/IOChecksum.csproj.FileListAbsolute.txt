@@ -1,0 +1,5 @@
+C:\Users\CameronA\Documents\Visual-Studio-2017\Projects\IOChecksum\IOChecksum\bin\Debug\IOChecksum.dll
+C:\Users\CameronA\Documents\Visual-Studio-2017\Projects\IOChecksum\IOChecksum\bin\Debug\IOChecksum.pdb
+C:\Users\CameronA\Documents\Visual-Studio-2017\Projects\IOChecksum\IOChecksum\obj\Debug\IOChecksum.csproj.CoreCompileInputs.cache
+C:\Users\CameronA\Documents\Visual-Studio-2017\Projects\IOChecksum\IOChecksum\obj\Debug\IOChecksum.dll
+C:\Users\CameronA\Documents\Visual-Studio-2017\Projects\IOChecksum\IOChecksum\obj\Debug\IOChecksum.pdb
